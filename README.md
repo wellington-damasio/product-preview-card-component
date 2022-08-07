@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/desktop-screenshot.jpg)
-![](./images/mobile-screenshot.jpg)
+![Desktop screenshot of the component](./images/desktop-screenshot.jpg?raw=true)
+![Mobile screenshot of the component](./images/mobile-screenshot.jpg?raw=true)
 
 ### Links
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
