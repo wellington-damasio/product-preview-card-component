@@ -29,7 +29,7 @@ Users should be able to:
 ![Mobile screenshot of the component](./images/mobile-screenshot.png?raw=true)
 
 ### Links
-- Live Site URL: [Live Site](https://wellington-damasio.github.io/product-preview-card-component/)
+- Live Site URL: <a href="[http://example.com/](https://wellington-damasio.github.io/product-preview-card-component/)" target="_blank">Live Site</a>
 
 ## My process
 
